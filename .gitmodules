@@ -1,0 +1,3 @@
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:summer0nguyen/puppetlabs-mysql.git
